@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "tobias@langkau.biz",
+    "longName": "Hourglass",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Hourglass",
+    "uuid": "07ccf8c0-54f2-4a65-84fc-6fda5d7486d2",
+    "versionCode": 1,
+    "versionLabel": "0.9",
+    "watchapp": {
+        "watchface": true
+    }
+}
